@@ -2,8 +2,4 @@
 Aegon Platform Releases
 
 ## Versions
-- [v1.11.1](https://github.com/aegonplatform/releases/releases/tag/v1.11.1)
-- [v1.8.0](https://github.com/aegonplatform/releases/releases/tag/v1.8.0)
-- [v1.6.4](https://github.com/aegonplatform/releases/releases/tag/v1.6.4)
-- [v1.6.3](https://github.com/aegonplatform/releases/releases/tag/v1.6.3)
-- [v1.4.4](https://github.com/aegonplatform/releases/releases/tag/v1.4.4)
+ [Latest](https://github.com/aegonplatform/releases/releases/latest)
